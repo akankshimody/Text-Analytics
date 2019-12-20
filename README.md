@@ -21,7 +21,7 @@ We use Pandas [NLTK](https://www.nltk.org/) to perform the following data prepro
 
 ## Analysis and Insights
 1. MDS Map of top 10 brands (based on word frequency) using lift scores <br><br>
-![MDS Map](https://github.com/akankshimody/Text-Analytics---Insights-from-Edmunds.com/blob/master/MDS%20Map.PNG)<br><br>
+![MDS Map](https://github.com/akankshimody/Text-Analytics---Insights-from-Edmunds.com/blob/master/MDS%20Map.PNG =500x)<br><br>
 Mercedes and Volvo have the strongest association. This is an interesting relation because Mercedes is undisputably a luxury car brand, but Volvo is not. The data is from entry-level-luxury-performance-sedans forum, and it is easy to guess luxury brand such as Mercedes, Audi, and BMW will have a significant lift with each other. However, people tend to talk more about a luxury car brand with a rather normal brand. This can be interpreted as people thinking about either buying a car with luxury brand or buying a car with reasonable price. Thus, luxury car brand managers should not only consider other luxury brands but also qualified brands with reasonable price as competitors.
 
 2. Identify most frequently mentioned attributes for the top 5 brands (based on word frequency)<br><br>
