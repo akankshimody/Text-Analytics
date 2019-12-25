@@ -18,13 +18,13 @@ We performed Sentiment Analysis on the cleaned data. The code for the same can b
 
 Some key insights we found were:
 1. 84% of the Ted Talks had an overall positive sentiment while only 16% of the talks had an overall negative sentiment.<br>
-<img src=" alt="Image1" width="500"/><br><br>
+<img src="https://github.com/akankshimody/Text-Analytics/blob/master/Ted%20Talks%20Transcript%20Analysis/images/Neg_vs_Pos.PNG" alt="Image1" width="500"/><br><br>
 Some examples of the negative talks are :
   a. Sleep is your superpower - Matt Walker
   b. How to stay calm when you know you'll be stressed - Daniel Levitin
   c. The price of shame - Monica Lewinsky
   d. My escape from North Korea - Hyeonseo Lee
 2. As we progress in the talk, laughter gradually decreases.<br>
-<img src="" alt="Image2" width="500"/><br><br>
+<img src="https://github.com/akankshimody/Text-Analytics/blob/master/Ted%20Talks%20Transcript%20Analysis/images/Laughter%20Position.PNG" alt="Image2" width="500"/><br><br>
 3. The timing of seriousness/ negative sentiment in more popular talks differs from that of less popular talks.<br>
-<img src="" alt="Image3" width="500"/><br><br>
+<img src="https://github.com/akankshimody/Text-Analytics/blob/master/Ted%20Talks%20Transcript%20Analysis/images/Sentiment%20Timing.PNG" alt="Image3" width="500"/><br><br>
