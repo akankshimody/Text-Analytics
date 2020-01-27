@@ -25,6 +25,6 @@ Some examples of the negative talks are :
   c. The price of shame - Monica Lewinsky
   d. My escape from North Korea - Hyeonseo Lee
 2. As we progress in the talk, laughter gradually decreases.<br>
-<img src="https://github.com/akankshimody/Text-Analytics/blob/master/Ted%20Talks%20Transcript%20Analysis/images/Laughter%20Position.PNG" alt="Image2" width="500"/><br><br>
+<img src="https://github.com/akankshimody/Text-Analytics/blob/master/Ted%20Talks%20Transcript%20Analysis/images/Laughter%20Position%20with%20time.PNG" alt="Image2" width="500"/><br><br>
 3. The timing of seriousness/ negative sentiment in more popular talks differs from that of less popular talks.<br>
 <img src="https://github.com/akankshimody/Text-Analytics/blob/master/Ted%20Talks%20Transcript%20Analysis/images/Sentiment%20Timing.PNG" alt="Image3" width="500"/><br><br>
